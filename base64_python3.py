@@ -1,6 +1,6 @@
 import base64
 
-s = 'eW91ciB0ZXh0'.encode()
+s = 'SXQncyBsdW5jaCB0aW1l'.encode()
 print(base64.b64decode(s).decode('utf-8'))
 
 s = 'time for lunch'.encode()
