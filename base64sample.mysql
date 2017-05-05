@@ -1,0 +1,1 @@
+SELECT TO_BASE64('time for lunch'), FROM_BASE64('SXQncyBsdW5jaCB0aW1l');
