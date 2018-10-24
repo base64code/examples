@@ -1,4 +1,4 @@
-package com.base64convert.example;
+package com.base64code.example;
 
 import java.util.Base64;
 // import org.apache.commons.codec.binary.Base64;

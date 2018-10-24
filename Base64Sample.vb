@@ -1,7 +1,7 @@
 Imports System
 Imports System.Text
 
-Namespace Base64convert.Example
+Namespace Base64code.Example
     Public Class Base64Sample
         Public Shared Sub Main()
             Dim strB64Encoded As String = "SXQncyBsdW5jaCB0aW1l"

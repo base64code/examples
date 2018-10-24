@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace Base64convert.Example
+namespace Base64code.Example
 {
     public class Base64Sample {
 
